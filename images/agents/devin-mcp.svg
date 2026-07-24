@@ -1,6 +1,6 @@
 <svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="500" fill="#1a1a2e" rx="8"/>
   <rect x="1" y="1" width="798" height="498" fill="none" stroke="#374151" stroke-width="2" rx="8" stroke-dasharray="8,4"/>
-  <text x="400" y="230" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#6b7280">Windsurf with Ambriel MCP</text>
+  <text x="400" y="230" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#6b7280">Devin with Ambriel MCP</text>
   <text x="400" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#6b7280">Screenshot placeholder</text>
 </svg>
